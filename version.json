@@ -1,8 +1,8 @@
 {
-  "version": "1.13.8",
-  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.13.8/RedmineAlarm.exe",
-  "sha256": "c43f01061f0c8c4358d7df3577006cc57150680ec4cc958dd31cca09c0f40673",
+  "version": "1.13.9",
+  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.13.9/RedmineAlarm.exe",
+  "sha256": "a1aa23c7f2ecbd8c6fd2a63f4f752708fe29c628533f31ecf4eb4200014793f9",
   "size": 19757332,
   "date": "2026-09-08",
-  "notes": "즐겨찾기 추가 버튼 수정 - ☆에서 '즐겨찾기 추가' 로 명칭 변경 되었습니다."
+  "notes": "화면 개선 - 즐겨찾기 버튼 명칭 변경 후 화면 깨짐 문제 개선"
 }
