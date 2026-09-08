@@ -1,8 +1,8 @@
 {
-  "version": "1.13.9",
-  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.13.9/RedmineAlarm.exe",
-  "sha256": "a1aa23c7f2ecbd8c6fd2a63f4f752708fe29c628533f31ecf4eb4200014793f9",
-  "size": 19757332,
+  "version": "1.13.10",
+  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.13.10/RedmineAlarm.exe",
+  "sha256": "3d51fb7f569d3fab87d2b730ffb561ab13f92af6c64521a7fd0d060e8b8c567c",
+  "size": 19757449,
   "date": "2026-09-08",
-  "notes": "화면 개선 - 즐겨찾기 버튼 명칭 변경 후 화면 깨짐 문제 개선"
+  "notes": "업데이트 5분 단위로 확인하게 기능 개선"
 }
