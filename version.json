@@ -1,8 +1,8 @@
 {
-  "version": "1.13.5",
-  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.13.5/RedmineAlarm.exe",
-  "sha256": "3b3541b62e5836ef6cff3050eb20f059c4674d191590161742cf0165e28a5ea2",
-  "size": 19756104,
+  "version": "1.13.6",
+  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.13.6/RedmineAlarm.exe",
+  "sha256": "6a5c7fce136b46e11a88d4b05b0cf53bb94dc183f82d47a6b2d2ad4ac8e5b060",
+  "size": 19754467,
   "date": "2026-09-08",
-  "notes": "업데이트 적용 정상적으로 되는지 확인"
+  "notes": "업데이트 적용 정상적으로 되는지 확인용도 배포입니다"
 }
