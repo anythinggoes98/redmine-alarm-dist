@@ -1,0 +1,8 @@
+{
+  "version": "1.12.4",
+  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.12.4/RedmineAlarm.exe",
+  "sha256": "c74b917431c9b6e5646adf91a3add6857c73ec0d085e8a71b8b0a78ccff49efa",
+  "size": 19747220,
+  "date": "2026-09-08",
+  "notes": "알림을 클릭하면 해당 일감이 열립니다"
+}
