@@ -1,8 +1,8 @@
 {
-  "version": "1.13.11",
-  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.13.11/RedmineAlarm.exe",
-  "sha256": "000faf221e5a587ae451fa8e57640e5aa27a21a6cafff75196401b49af04b6b8",
-  "size": 19757449,
-  "date": "2026-09-08",
-  "notes": "업데이트 후 창이 두 개가 되어버리는 문제 개선"
+  "version": "1.15.1",
+  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.15.1/RedmineAlarm.exe",
+  "sha256": "62f600535593c7a7ae3784a3da2f7fd5d9dc0203596108e8deb2b4ebc09ba83d",
+  "size": 19761711,
+  "date": "2026-09-14",
+  "notes": "KPI 조회 건수 제한 100건에서 1,000건으로 수정"
 }
