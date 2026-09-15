@@ -1,8 +1,8 @@
 {
-  "version": "1.15.1",
-  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.15.1/RedmineAlarm.exe",
-  "sha256": "62f600535593c7a7ae3784a3da2f7fd5d9dc0203596108e8deb2b4ebc09ba83d",
-  "size": 19761711,
-  "date": "2026-09-14",
-  "notes": "KPI 조회 건수 제한 100건에서 1,000건으로 수정"
+  "version": "1.15.2",
+  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.15.2/RedmineAlarm.exe",
+  "sha256": "10d09750ef194d62c8a8cd7f6070973291835b86ff1ea0504cc3f255ac3d7189",
+  "size": 19762622,
+  "date": "2026-09-15",
+  "notes": "알림 이력 숫자가 안 맞던 문제 해결, 업데이트 시 기존 창이 종료되지 않는 문제해결(다음 배포에 적용)"
 }
