@@ -1,8 +1,8 @@
 {
-  "version": "1.15.5",
-  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.15.5/RedmineAlarm.exe",
-  "sha256": "4a05464aa1da075a382f214c4443c44215ee18de154f4dbc6700a3f763126aa9",
-  "size": 19766197,
-  "date": "2026-09-23",
-  "notes": "레드마인 알림 팝업 오류 해결"
+  "version": "1.16.0",
+  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.16.0/RedmineAlarm.exe",
+  "sha256": "a216650e55b4fdf7fba4b1ef6a65f04128a8968641cd89871e1d92a8fee8cc14",
+  "size": 19777115,
+  "date": "2026-09-29",
+  "notes": "업데이트 창 개선, 게시물 중복댓글 알림 개선 되었습니다"
 }
