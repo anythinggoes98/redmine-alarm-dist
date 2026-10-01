@@ -1,8 +1,8 @@
 {
-  "version": "1.16.0",
-  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.16.0/RedmineAlarm.exe",
-  "sha256": "a216650e55b4fdf7fba4b1ef6a65f04128a8968641cd89871e1d92a8fee8cc14",
-  "size": 19777115,
-  "date": "2026-09-29",
-  "notes": "업데이트 창 개선, 게시물 중복댓글 알림 개선 되었습니다"
+  "version": "1.17.0",
+  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.17.0/RedmineAlarm.exe",
+  "sha256": "fca4b1329b6fcc2ef0bd406cae0bdf34d7c018793e8dfd250dbe7bfb71001076",
+  "size": 19829867,
+  "date": "2026-10-01",
+  "notes": "내 작업리스트 탭 추가되었습니다. 해당 탭에서 접수리스트와 작업리스트에 있는 문의 내용과 관련된 레드마인 게시글을 조회하실 수 있습니다. 설정에서 로그인 하셔서 사용 부탁드립니다"
 }
