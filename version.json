@@ -1,8 +1,8 @@
 {
   "version": "1.17.2",
   "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.17.2/RedmineAlarm.exe",
-  "sha256": "bf974580f3b3e73b3374ab48eb97ccc060299ba5afa855f1c115df6eca6cb1c0",
-  "size": 19978733,
+  "sha256": "e9321b589194db7259c804616dbd0c4375b4beaa9702509f700833d3d0ed25ea",
+  "size": 19979394,
   "date": "2026-10-07",
   "notes": "병원 특이사항 기능 추가 이제 팀톡에 병원 특이사항 공유가 올라왔을 때 내용을 저장해서 보기 쉽게 조회가 가능합니다(파일 잘못올려서 재배포)"
 }
