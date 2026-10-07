@@ -1,8 +1,8 @@
 {
-  "version": "1.17.3",
-  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.17.3/RedmineAlarm.exe",
-  "sha256": "05c1be66fd99d91cd785cd33d3bd0910afbd383041d98927060d01922e391e7d",
-  "size": 19981515,
+  "version": "1.17.4",
+  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.17.4/RedmineAlarm.exe",
+  "sha256": "ba76f6f1e87133dd071b3be519292f4c30c6cba9b7b4c896709a854fc114b5ce",
+  "size": 19983213,
   "date": "2026-10-07",
-  "notes": "알림 ON/OFF 설정 구현 - 테마 설정 위에 있는 알림 설정 기능 사용하시면 됩니다."
+  "notes": "병원 특이사항 가독성 개선, 알림 설정 오류 해결"
 }
