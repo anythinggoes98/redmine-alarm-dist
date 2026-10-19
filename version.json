@@ -1,8 +1,8 @@
 {
-  "version": "1.17.4",
-  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.17.4/RedmineAlarm.exe",
-  "sha256": "ba76f6f1e87133dd071b3be519292f4c30c6cba9b7b4c896709a854fc114b5ce",
-  "size": 19983213,
-  "date": "2026-10-07",
-  "notes": "병원 특이사항 가독성 개선, 알림 설정 오류 해결"
+  "version": "1.17.5",
+  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.17.5/RedmineAlarm.exe",
+  "sha256": "ae45cad4b421cf5982b3df294aea1181b71ddb5d2b23f36e7103cf54034cc756",
+  "size": 20000768,
+  "date": "2026-10-20",
+  "notes": "슬랙 웹훅 연동"
 }
