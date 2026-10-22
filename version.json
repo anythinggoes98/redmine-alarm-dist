@@ -1,8 +1,8 @@
 {
-  "version": "1.17.5",
-  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.17.5/RedmineAlarm.exe",
-  "sha256": "ae45cad4b421cf5982b3df294aea1181b71ddb5d2b23f36e7103cf54034cc756",
-  "size": 20000768,
-  "date": "2026-10-20",
-  "notes": "슬랙 웹훅 연동"
+  "version": "1.17.6",
+  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.17.6/RedmineAlarm.exe",
+  "sha256": "fab3c0b1851387f27f5a761a6ed0937549052be7c5082863608cf8a032314a5c",
+  "size": 20037632,
+  "date": "2026-10-22",
+  "notes": "슬랙 연동 완료"
 }
