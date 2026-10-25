@@ -1,8 +1,8 @@
 {
-  "version": "1.17.9",
-  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.17.9/RedmineAlarm.exe",
-  "sha256": "c1924b54621dbc76b267ed222c59407a92f5bdf45e6a5d7d4df97434be3545f1",
+  "version": "1.17.10",
+  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.17.10/RedmineAlarm.exe",
+  "sha256": "1db8b5d26096aebe6680550d893a09e14977681471e5a7322826c0f4978e1542",
   "size": 20049920,
-  "date": "2026-10-23",
-  "notes": "슬랙 연동 완료(레드마인 이메일과 슬랙 이메일이 다를 경우 조치방법 추가"
+  "date": "2026-10-26",
+  "notes": "슬랙 메시지 가독성 개선"
 }
