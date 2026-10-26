@@ -1,8 +1,8 @@
 {
-  "version": "1.17.10",
-  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.17.10/RedmineAlarm.exe",
-  "sha256": "1db8b5d26096aebe6680550d893a09e14977681471e5a7322826c0f4978e1542",
-  "size": 20049920,
+  "version": "1.17.11",
+  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.17.11/RedmineAlarm.exe",
+  "sha256": "b04454eea62fa5dbaf163a0fc46bf329ae8512a095a8d6df9e6d96e8a6a2b841",
+  "size": 20058112,
   "date": "2026-10-26",
-  "notes": "슬랙 메시지 가독성 개선"
+  "notes": "슬랙 메시지 설정 개선"
 }
