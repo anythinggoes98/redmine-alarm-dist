@@ -1,8 +1,8 @@
 {
-  "version": "1.17.11",
-  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.17.11/RedmineAlarm.exe",
-  "sha256": "b04454eea62fa5dbaf163a0fc46bf329ae8512a095a8d6df9e6d96e8a6a2b841",
-  "size": 20058112,
-  "date": "2026-10-26",
-  "notes": "슬랙 메시지 설정 개선"
+  "version": "1.17.13",
+  "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.17.13/RedmineAlarm.exe",
+  "sha256": "0ba4b45b4044212b97269ce3fb4f80782ed2931dc527e4a2f79e395df18d7f9f",
+  "size": 20086784,
+  "date": "2026-10-29",
+  "notes": "실행파일 나온 레마, 배포 완료된 레마 알림을 슬랙 앱 알림에서 확인할 수 있습니다."
 }
