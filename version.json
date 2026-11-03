@@ -1,7 +1,7 @@
 {
   "version": "1.17.14",
   "url": "https://github.com/anythinggoes98/redmine-alarm-dist/releases/download/v1.17.14/RedmineAlarm.exe",
-  "sha256": "258241abd923a82a346151f94ae715a15d434bddf76f9f2bd7dacfa37370b91e",
+  "sha256": "3ad0636b24825c9e23d2eaa34f72f1026ed92b16240216c76110cd8ce061e902",
   "size": 20086784,
   "date": "2026-11-03",
   "notes": "슬랙 앱 알림 내 관련만 볼 수 있게 구현."
